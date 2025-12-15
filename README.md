@@ -1,2 +1,2 @@
 # odin-git-experimentation
-Odin Project, Intermediate Git, A Deeper Look at Git
+Git repository for experimenting with Git.
